@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.agenda.app-mergeReleaseResources-26:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.agenda.app-mergeReleaseResources-28:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "D:\\Usuarios\\kodi\\proyecto\\flutter\\agenda\\android\\app\\src\\main\\res\\values-night\\styles.xml",

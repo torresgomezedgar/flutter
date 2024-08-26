@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.agenda.app-mergeReleaseResources-26:/values-pt/values-pt.xml",
+            "outputFile": "com.example.agenda.app-mergeReleaseResources-28:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kodi\\.gradle\\caches\\transforms-3\\6be828bfc761ec9853db404755774cad\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",

@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 void main() async {
 
   //modulo de conexion para Firebase
+  //remoto
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,

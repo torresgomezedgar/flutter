@@ -9,10 +9,23 @@
       "client_info": {
         "mobilesdk_app_id": "1:370827027774:android:73f1bc6cfbc10d8b52786f",
         "android_client_info": {
-          "package_name": "com.example.agenda"
+          "package_name": "etgdigital.xyz"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "370827027774-m74do3n645nbaar6o5itqjbg0f7sjqgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "etgdigital.xyz",
+            "certificate_hash": "5ff003d3dd2ee97930ce3b1f46af42ab756960b8"
+          }
+        },
+        {
+          "client_id": "370827027774-vels5frutpfn5oa9rs703mdjars2m2tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDvqPv8dYbYssGAYT_fLYtYmoQSFwzL9wc"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370827027774-vels5frutpfn5oa9rs703mdjars2m2tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
